@@ -4,7 +4,7 @@ A modern programming language focused on simplicity and developer experience. Th
 
 ## Team
 
-**Maintainer:** [@codesft](https://github.com/codesft)  
+**Maintainer:** [@codesft](https://github.com/codesoftgit)  
 Website: [codesft.dev](https://codesft.dev)  
 Bluesky: [@codesft.dev](https://bsky.app/profile/codesft.dev)
 
